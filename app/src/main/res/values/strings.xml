@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="albums">Albums</string>
+    <string name="songs">Songs</string>
+    <string name="song_details">Song details</string>
+
+    <string name="back">back</string>
+    <string name="next">next</string>
+
+    <string name="general_info">The music comes from the online website and is put into my app
+    by using proper api (https://developers.soundcloud.com/docs/api/sdks#javascript). This app
+    looks like a normal music player so it displays a list of available albums, songs and songs
+    details and also allows users to play music bu clicking on a song name. I will use Media Player
+    class and many methods like start, pause or stop.</string>
+
+    <string name="album_info">There will be a list of albums which will be displayed in a way that
+    is showed in album_item.xml - there will be the album cover on the left and its name on the
+    right. By clicking on an item user will move to songs activity and see a playlist.</string>
+
+    <string name="songs_info">There will be a list of songs which will be displayed in a way that
+    is showed in songs_item.xml. What is more, each name of a song will be clickable and after
+    being clicked a song will be played.</string>
+
+    <string name="song_details_info">There will be basic info about the song displayed - at first
+    an album cover, then album name and year of release, next there will be author name and song
+    name and lastly - a genre of the album.</string>
+
+    <string name="album_name">Divide</string>
+    <string name="year">2017</string>
+    <string name="author">Ed Sheeran</string>
+    <string name="song_name">Perfect</string>
+    <string name="genre">pop</string>
+
+</resources>
